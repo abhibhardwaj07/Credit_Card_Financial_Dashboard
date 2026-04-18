@@ -16,3 +16,9 @@ This project showcases a data dashboard built using SQL database to analyze and 
 - Language: SQL
 
 📊 Key Insights
+- Revenue is increased by 28.8%
+- Overall Revenue is 57M
+- Total Interest is 8M
+- Male Customer are contributing more in revenue 31M, Female 26M
+- Overall Delinquent rate is 6.06%
+- Overall Activation rate is 57%
